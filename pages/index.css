@@ -1,3 +1,4 @@
+@import url(../vendor/fonts.css);
 @import url(../vendor/normalize.css);
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/cards/__description/cards__description.css);
@@ -33,7 +34,7 @@
 @import url(../blocks/khan/khan.css);
 @import url(../blocks/khan/__author/khan__author.css);
 @import url(../blocks/khan/__book-container/khan__book-container.css);
-@import url(../blocks/khan/__book-pic/book-pic.css);
+@import url(../blocks/khan/__book-pic/khan__book-pic.css);
 @import url(../blocks/khan/__container/khan__container.css);
 @import url(../blocks/khan/__quote-author-subline/khan__quote-author-subline.css);
 @import url(../blocks/khan/__quote-author/khan__quote-author.css);
